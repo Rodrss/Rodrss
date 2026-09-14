@@ -28,13 +28,11 @@ Focado em criar interfaces modernas, acessíveis e focadas na melhor experiênci
 
 ---
 
-### 📊 Minhas Estatísticas
-
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodrss&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrss&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rodrss&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rodrss&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
 </p>
 
 📫 **Conecte-se comigo:**
