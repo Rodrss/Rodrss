@@ -33,6 +33,9 @@ Focado em criar interfaces modernas, acessíveis e focadas na melhor experiênci
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodrss&theme=dark" alt="GitHub Streak" height="150" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodrss&theme=2077" alt="Resumo do Perfil" height="150" />
+</p>
 
 📫 **Conecte-se comigo:**
 
